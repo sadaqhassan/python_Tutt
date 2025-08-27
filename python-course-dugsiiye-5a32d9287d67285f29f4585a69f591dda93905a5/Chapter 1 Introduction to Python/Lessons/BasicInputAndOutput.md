@@ -7,7 +7,7 @@ name = input("What is your name? ")
 print("Hello, " + name)
 ```
 
-In this example, we're using the `input()` function to get the user's name, and then using the `print()` function to display a greeting.
+In this example like we're using the `input()` function to get the user's name, and then using the `print()` function to display a greeting.
 
 2. Displaying output to the user:
 
